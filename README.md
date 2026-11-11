@@ -16,7 +16,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="18" height="18" align="absmiddle" alt="">
-  &nbsp; <a href="https://zjw-buaa.github.io/">Home</a>
+  &nbsp; <a href="https://zjw-05.github.io/">Home</a>
 </p>
 
 <p>
